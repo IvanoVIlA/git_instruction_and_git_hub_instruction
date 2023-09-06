@@ -48,4 +48,16 @@
 Ты не дооцениваешь мою мощь. 
 © Энакин Скайуокер.
 
+## Вставим кусок кода
+Чтобы вставить код, нужно перед текстом поставить знак (>). Например:
+> n=5
+string="Hello World "
+<br>
+print(string * n)  #Hello World Hello World Hello World Hello World Hello World
+
+
+
+
+
+
 ## Заключение
