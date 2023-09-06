@@ -49,11 +49,11 @@
 © Энакин Скайуокер.
 
 ## Вставим кусок кода
-Чтобы вставить код, нужно перед текстом поставить знак (>). Например:
-> n=5
-string="Hello World "
-<br>
-print(string * n)  #Hello World Hello World Hello World Hello World Hello World
+Чтобы вставить код, нужно перед текстом поставить знак (<>). Например:
+<p> Это код на питоне </p>
+<pre><code> n=5
+ string="Hello World "
+ print(string * n)  #Hello World Hello World Hello World Hello World Hello World </code></pre>
 
 
 
