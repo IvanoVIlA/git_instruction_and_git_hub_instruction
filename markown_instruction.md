@@ -55,7 +55,9 @@
  string="Hello World "
  print(string * n)  #Hello World Hello World Hello World Hello World Hello World </code></pre>
 
-
+## Зачеркнутый текст
+ 
+ Чтобы зачеркнуть текст, необходимо обрамить его двойными волнами (~~). Например, ~~ВОТ ТАК ВОТ~~
 
 
 
